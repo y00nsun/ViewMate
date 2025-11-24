@@ -1,0 +1,8 @@
+path: /content/drive/MyDrive/Colab Notebooks/2024_CV_project/dataset   # Dataset path
+train: /content/drive/MyDrive/Colab Notebooks/2024_CV_project/dataset/images/train      # Train Data folder
+val: /content/drive/MyDrive/Colab Notebooks/2024_CV_project/dataset/images/val          # Valid Data folder
+
+names:
+  0: tag        
+  1: nutri
+  2: date
